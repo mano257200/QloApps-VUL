@@ -11,3 +11,7 @@ Session Hijacking: Tokens in URLs are vulnerable to interception during transmis
 Targeted Attacks: If usernames are also exposed, attackers can target specific accounts.
 Affected Versions
 QloApps v1.6.1
+
+Steps to Reproduce
+Access a URL within the application that redirects to a URL with an authentication token exposed in the query string.
+Observe that the sensitive token is visible in the URL, creating a potential security risk.
