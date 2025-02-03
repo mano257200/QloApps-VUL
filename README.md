@@ -3,7 +3,7 @@
 ## Vulnerability Summary
 - **Vulnerability Type:** Insecure Token Exposure in URL  
 - **Affected Product:** QloApps v1.6.1  
-- **Severity:** High  
+
 
 ## Description
 QloApps v1.6.1 exposes authentication tokens in URLs during redirection, posing a significant security risk. When users access the admin panel or other protected areas, the application appends sensitive authentication tokens directly to the URL.
