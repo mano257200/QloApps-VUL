@@ -1,4 +1,4 @@
-# CVE Request: Insecure Token Exposure in QloApps v1.6.1
+# CVE Request: Insecure Token Exposure and Redirection in QloApps
 
 ## Vulnerability Summary
 - **Vulnerability Type:** Insecure Token Exposure in URL  
