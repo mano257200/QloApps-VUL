@@ -27,7 +27,7 @@ This vulnerability increases the risk of **unauthorized access**, **session hija
 http://localhost/admin/index.php?controller=AdminLogin&token=6e47735650164e22315756daa6199fee
 
 3. The token is visible in the URL and can be intercepted, logged, or manipulated.
-https://github.com/mano257200/QloApps-VUL/blob/main/POC%201%20(1).png
+![image](https://github.com/mano257200/QloApps-VUL/blob/main/POC%202%20(1).png)
 ![image](https://github.com/mano257200/QloApps-VUL/blob/main/POC%201%20(1).png)
 
 
