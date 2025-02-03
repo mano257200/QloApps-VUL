@@ -28,19 +28,4 @@ http://localhost/admin/index.php?controller=AdminLogin&token=6e47735650164e22315
 
 3. The token is visible in the URL and can be intercepted, logged, or manipulated.  
 
-## Recommended Mitigations
-- Store authentication tokens securely (e.g., in HTTP-only cookies or headers instead of URLs).  
-- Implement session expiration and token invalidation mechanisms.  
-- Enforce HTTPS to prevent token interception.  
-- Avoid including sensitive information in referrer headers.  
 
----
-
-### **3. Commit and Push**
-- Scroll down and click **Commit new file**.  
-- This will save the file in your repository.  
-
-### **4. Share the Report**  
-- You can share your GitHub repository link in security forums, on CVE request platforms, or with the QloApps team for responsible disclosure.  
-
-Let me know if you need any help with GitHub commands or formatting!
