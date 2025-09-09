@@ -2,7 +2,8 @@
 
 ## Vulnerability Summary
 - **Vulnerability Type:** Insecure Token Exposure in URL  
-- **Affected Product:** QloApps v1.6.1  
+- **Affected Product:** QloApps v1.6.1
+- **Author:** MV
 
 
 ## Description
