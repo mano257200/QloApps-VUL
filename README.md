@@ -1,9 +1,11 @@
 # CVE Request: Insecure Token Exposure and Redirection in QloApps
 
+**Author:** Ragavendra Krishna Kumar
+
 ## Vulnerability Summary
 - **Vulnerability Type:** Insecure Token Exposure in URL  
 - **Affected Product:** QloApps v1.6.1
-- **Author:** MV
+- 
 
 
 ## Description
